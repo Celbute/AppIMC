@@ -1,4 +1,4 @@
-# Game of Thrones
+# APP IMC
 
 
 # Sobre o projeto
@@ -25,7 +25,7 @@ Desenvolvido em Kotlin, este aplicativo oferece uma experiência intuitiva e rá
 
 # Tecnologias utilizadas
 
-## Front end
+##linguagem de programação
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
 # Autor
