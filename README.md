@@ -10,14 +10,14 @@ Desenvolvido em Kotlin, este aplicativo oferece uma experiência intuitiva e rá
 
 ## Layout Mobile
 <p align="left">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144237_AppIMC.jpg" alt="principal" width="33%">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144352_AppIMC.jpg" alt="peso-baixo"  width="33%">
-   <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144311_AppIMC.jpg" alt="peso-normal"  width="33%">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144237_AppIMC.jpg" alt="principal" width="30%">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144352_AppIMC.jpg" alt="peso-baixo"  width="30%">
+   <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144311_AppIMC.jpg" alt="peso-normal"  width="30%">
   
 </p>
 <p align="left">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144320_AppIMC.jpg" alt="sobrepeso" width="33%">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144243_AppIMC.jpg" alt="obeso" width="33%">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144320_AppIMC.jpg" alt="sobrepeso" width="30%">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144243_AppIMC.jpg" alt="obeso" width="30%">
 </p>
 
 
