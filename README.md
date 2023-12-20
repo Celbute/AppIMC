@@ -9,6 +9,17 @@ Desenvolvido em Kotlin, este aplicativo oferece uma experiência intuitiva e rá
 
 
 ## Layout Mobile
+<p align="left">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144237_AppIMC.jpg" alt="principal" width="33%">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144352_AppIMC.jpg" alt="peso-baixo"  width="33%">
+   <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144311_AppIMC.jpg" alt="peso-normal"  width="33%">
+  
+</p>
+<p align="left">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144320_AppIMC.jpg" alt="sobrepeso" width="33%">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AppImc/Screenshot_20231220-144243_AppIMC.jpg" alt="obeso" width="33%">
+</p>
+
 
 
 
@@ -21,5 +32,4 @@ Desenvolvido em Kotlin, este aplicativo oferece uma experiência intuitiva e rá
 André Luís 
 
 # Linkedin
-
-https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-14a8772a2/
+<a href="https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-14a8772a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
